@@ -1,10 +1,8 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/TX.jpg">
+    <img alt="Vue logo" src="../assets/logo.png">
     <br>
-    <img alt="Vue logo" src="../assets/euskadi-azul_200x200.jpg">
-    <img alt="Vue logo" src="../assets/turismo_200x200.png">
-    <HelloWorld msg="Ongi etorri Txurdinagako turismo orrira"/>
+    <HelloWorld msg="This is a Hello World message"/>
   </div>
 </template>
 
